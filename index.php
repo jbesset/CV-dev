@@ -153,27 +153,20 @@
             <!-- Contact -->
         <h2 id="contact">Contactez-moi</h2>
         
-        <p>07.69.78.58.66</p>
+        <p>+33 7 69 78 58 66</p>
         <p>julien.besset.pro@gmail.com</p>
         <p>Je suis disponible sur Toulouse et ses alentour</p>
 
 		<h3>Formulaire de contact</h3>
 	
         <form>
-            <p>Vous souhaitez me rencontrer ? Prenez contact avec moi en remplissant ce formulaire :</p>
-            <div class="nomprenom">
-                <input type="text" name="nom" id="nom" placeholder="Indiquez votre nom"/>
-                <input type="text" name="prenom" id="prenom" placeholder="Indiquez votre prénom"/>
-            </div>
-            <input class="email" type="mail" name="email" id="mail" placeholder="Renseignez votre email"/>
-            <p>Laissez votre message :</p>
-            <textarea class ="message" type="text" name="message" id="message" placeholder="Votre message..." rows="10" cols="50"></textarea>
             <button>Envoyer</button>
         </form>
 
         <footer>
-            <a href="https://www.linkedin.com/in/julien-besset/">linkedin</a>
-            <p>Réalisé par Julien BESSET © 2021 - Tous droits réservés</p>
+            <a href="https://www.linkedin.com/in/julien-besset/" target="_blank"><img src="../images/linkedin_icon.png" alt="logo Github" title="Github"/></a>
+            <a href="https://github.com/jbesset" target="_blank"><img src="../images/GitHub-Mark-32px.png" alt="logo Github" title="Github"/></a>
+            <p>Réalisé par Julien Besset © 2021 - Tous droits réservés</p>
         </footer>
  
     </body>
