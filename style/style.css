@@ -5,22 +5,105 @@ padding: 0;
 font-family:'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
 }
 
+.background {
+    background-color: #aaa;
+    padding: 20px;
+}
+
+.work {
+    width: 400px;
+	background: white;
+	padding: 20px;
+	margin: auto;
+	border: 2px solid black;
+    margin-bottom: 20px;
+    font-size: 12px;
+    border-radius: 1em;
+}  
+
+.school {
+    width: 400px;
+	background: white;
+	padding: 20px;
+	margin: auto;
+	border: 2px solid black;
+    margin-bottom: 20px;
+    font-size: 12px;
+    border-radius: 1em;
+}   
+
+    /* -- CONTACT -- */
+
+h2 {
+    text-align: center;
+}
+
+.phone_box {
+    width: 400px;
+    background: #aaa;
+    padding: 20px;
+    margin: auto;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 1em;
+}
+
+.email_box {
+    width: 400px;
+	background: #aaa;
+	padding: 20px;
+	margin: auto;
+	border: 2px solid black;
+    margin-bottom: 20px;
+    text-align: center;
+    border-radius: 1em;
+}
+.city_box {
+    width: 400px;
+	background: #aaa;
+	padding: 20px;
+	margin: auto;
+	border: 2px solid black;
+    margin-bottom: 40px;
+    text-align: center;
+    border-radius: 1em;
+}
+
     /* -- FORM -- */
+
+#form {
+    text-align: center;
+}
 
 form {
     width: 400px;
 	background: white;
 	padding: 20px;
-	margin: 0 auto;
-	border: 2px solid #ddd;
-    margin-bottom: 20px;
+	margin: auto;
+	border: 2px solid #aaa;
+    margin-bottom: 40px;
     text-align: center;
 }
 
-    /* -- FOOTER -- */
-    
+form button{
+    background-color: #aaa;
+    padding: 10px 20px;
+    border-radius: 1em;
+    border: 0;
+}
+
+input {
+    width: 350px;
+    padding: 10px;
+    margin: auto;
+    margin-bottom: 20px;
+}
+
+   /* -- FOOTER -- */
+
 footer {
-background-color: #e8c62e;
+background-color: #aaa;
 color: white;
 font-size: 15px;
 text-align: center;
